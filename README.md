@@ -6,13 +6,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseantoniobr/) [![Gmail](https://img.shields.io/badge/OUTLOOK-2E6ABC?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jose.silva.br@outlook.com?subject=Contato&amp;body=Ola) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511981470040&text=Hi+from+GitHub) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toni.silva__)
 
-- Sou Desenvolvedor Web Full Stack;
+- Sou Analista Desenvolvedor Especialista 👨‍💻;
 
-- Minha experiência consistente de mercado se concentra em React, React Native e Node;
+- Sou um grande apaixonado na programação mobile e um grande sonhador com o futuro progressivo das PWA;
 
-- Tenho 17 anos, mas consegui uma emancipação para trabalhar.
+- Nada melhor que construir um mundo livre, não acha? Que tal começar pelo open banking? Minhas experiencias são voltadas para o desenvolvimento de novas tecnologias para facilitar o meio financeiro e evoluir para um novo patamar de inovações ;) 
 
-- Moro em São Paulo.
+- Sou movido a novos desafios, apaixonado por testar novas tecnologias e sempre pronto para executar o nosso Hello World hehehe  
 
 ### Ferramentas e Tecnologias
 
