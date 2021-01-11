@@ -14,7 +14,7 @@
 
 - Sou movido a novos desafios, apaixonado por testar novas tecnologias e sempre pronto para executar o nosso Hello World hehehe  
 
-### Ferramentas e Tecnologias
+### Sempre se atualizando com, 
 
 <p float="left">
 
