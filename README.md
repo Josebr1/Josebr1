@@ -4,7 +4,7 @@
 
 # Olá, sou o José
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseantoniobr/) [![Gmail](https://img.shields.io/badge/OUTLOOK-2E6ABC?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jose.silva.br@outlook.com?subject=Contato&amp;body=Ola) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511981470040&text=Hi+from+GitHub) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toni.silva__) [![Medium](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=medium&logoColor=white)](https://josebr1.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseantoniobr/) [![Gmail](https://img.shields.io/badge/OUTLOOK-2E6ABC?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jose.silva.br@outlook.com?subject=Contato&amp;body=Ola) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511981470040&text=Hi+from+GitHub) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toni.silva__) [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://josebr1.medium.com/)
 
 - Sou Analista Desenvolvedor Especialista 👨‍💻;
 
